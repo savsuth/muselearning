@@ -1,5 +1,7 @@
 # muselearning
 
+![muselearning — Less to manage. More to learn. A learning management demo with a course path from HTML to React.](assets/readme/hero.svg)
+
 A Canvas-inspired learning management demo for exploring courses, completing assignments, taking quizzes, and tracking grades.
 
 ## Features
