@@ -1,0 +1,51 @@
+feature,area,priority,original,clone,notes
+Global navigation rail with badges,shell,must,yes,yes,S all
+Dashboard course cards,dashboard,must,yes,yes,S02
+To-do list of upcoming work,dashboard,must,yes,yes,S02
+Course home page,course,must,yes,yes,S04
+Course navigation,course,must,yes,yes,S04-S17
+Modules with items,modules,must,yes,yes,S05
+Module completion and progress,modules,must,yes,yes,S05 prerequisites + checkmarks
+Assignments grouped by assignment group,assignments,must,yes,yes,S06
+Assignment detail page,assignments,must,yes,yes,S07
+Text and file submission,assignments,must,yes,yes,S07 file stored by name only (local)
+Rubric display,assignments,must,yes,yes,S07
+Student grades page,grades,must,yes,yes,S13
+Weighted group totals,grades,must,yes,yes,S13
+Quiz list,quizzes,must,yes,yes,S08
+Quiz taking,quizzes,must,yes,yes,S09 multiple choice + true/false + short answer
+Quiz timer,quizzes,must,yes,yes,S09 auto-submit at zero
+Discussions list,discussions,must,yes,yes,S10
+Discussion replies (nested),discussions,must,yes,yes,S11
+Announcements,announcements,must,yes,yes,S12
+People roster,people,must,yes,yes,S14
+Calendar month view,calendar,must,yes,yes,S18
+Inbox conversations,inbox,must,yes,yes,S19
+What-if grades,grades,should,yes,yes,S13
+Calendar week and agenda views,calendar,should,yes,yes,S18
+Syllabus with course summary,course,should,yes,yes,S17
+Pages,course,should,yes,yes,S15
+Files,course,should,yes,yes,S16
+Account profile and settings,account,should,yes,yes,S20
+Instructor view toggle,shell,should,yes,yes,persona switch
+Instructor gradebook,grades,should,yes,yes,S21
+Module editing (add / reorder / publish),modules,should,yes,yes,S05 instructor
+Create announcements,announcements,should,yes,yes,S12 instructor
+Dark mode,shell,should,no,yes,improvement over original
+Course card color and nickname,dashboard,should,yes,yes,S02
+All courses list with favorites,courses,should,yes,yes,S03
+Recent feedback,dashboard,should,yes,yes,S02
+Command palette (Cmd+K),shell,could,no,yes,improvement over original
+Keyboard shortcuts,shell,could,partial,yes,improvement
+Quiz flag for review,quizzes,could,no,yes,improvement
+Autosaved submission drafts,assignments,could,partial,yes,improvement
+Notification center,shell,could,partial,yes,S all
+Focus timer for study sessions,shell,could,no,no,not built
+Inbox star and filters,inbox,could,yes,yes,S19
+Discussion likes,discussions,could,yes,yes,S11
+SSO and LTI integrations,platform,skip,yes,no,needs institutions and partners
+Email and push notification delivery,platform,skip,yes,no,local only
+Video conferencing,platform,skip,yes,no,third-party service
+Plagiarism detection,platform,skip,yes,no,third-party service
+SIS roster sync,platform,skip,yes,no,needs institution data
+Hosting and deployment,platform,skip,yes,no,local only by request

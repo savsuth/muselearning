@@ -39,3 +39,17 @@ yarn-error.log*
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+# local agent and editor files
+.claude/
+AGENTS.md
+CLAUDE.md
+
+# local tool caches and working captures
+.impeccable/
+captures/
+TAKEOVER.md
+
+# local drafts and working files
+/work/
+/README.md
