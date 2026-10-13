@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" width="1200" height="520" viewBox="0 0 1200 520" role="img" aria-labelledby="hero-title hero-desc">
   <title id="hero-title">muselearning — Less to manage. More to learn.</title>
-  <desc id="hero-desc">A learning management demo with five sample courses and three personas. A curriculum timeline shows the first four Web Development units: HTML, CSS, JavaScript, and React.</desc>
+  <desc id="hero-desc">A learning management demo. A curriculum timeline shows the first four Web Development units: HTML, CSS, JavaScript, and React.</desc>
   <defs>
     <marker id="arrow" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0,8 3,0 6" fill="#5c5f69"/></marker>
     <marker id="arrow-accent" markerWidth="8" markerHeight="6" refX="7" refY="3" orient="auto"><polygon points="0 0,8 3,0 6" fill="#c4162f"/></marker>
@@ -10,7 +10,6 @@
   <rect width="1200" height="520" fill="#f7f7f8"/>
   <g font-family="Geist, system-ui, sans-serif">
     <text x="60" y="60" fill="#5c5f69" font-size="18" font-weight="500" letter-spacing="3">LEARNING, WITH ROOM TO THINK.</text>
-    <text x="1140" y="60" text-anchor="end" fill="#5c5f69" font-size="18">5 courses / 3 perspectives</text>
     <text x="52" y="219" fill="#16171b" font-size="160" font-weight="600" letter-spacing="-8"><tspan fill="#c4162f">muse</tspan>learning</text>
     <text x="60" y="285" fill="#16171b" font-size="36" font-weight="400" letter-spacing="-1">Less to manage. More to learn.</text>
   </g>
